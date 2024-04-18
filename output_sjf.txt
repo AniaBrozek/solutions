@@ -1,0 +1,9 @@
+Proces	 Czas przyjœcia	 Czas wykonania	 Czas oczekiwania	 Czas obrotu
+3				 4				 1				 0				 1
+2				 0				 4				 0				 4
+1				 0				 5				 5				 10
+5				 5				 7				 5				 12
+4				 1				 9				 16				 25
+
+Œredni czas oczekiwania: 5.2
+Œredni czas obrotu: 10.4
